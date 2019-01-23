@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "arthurgautheron/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -172,18 +172,18 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-    # output: false
-    # permalink: /:collection/:path/
-  # publications:
-    # output: false
-    # permalink: /:collection/:path/
+  teaching:
+    output: false
+    permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  # talks:
-    # output: false
-    # permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
