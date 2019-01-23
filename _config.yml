@@ -85,7 +85,7 @@ author:
   #bio              : "Your biography for the left-hand sidebar"
   location         : "Paris, France"
   employer         :
-  googlescholar    :# "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "arthur.gautheron@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
